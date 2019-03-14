@@ -1,3 +1,3 @@
 # AidlTest
 Aidl Demo
-作者简书：https://www.jianshu.com/u/30a07accc691
+简书地址：https://www.jianshu.com/p/053dc8cfa45e
